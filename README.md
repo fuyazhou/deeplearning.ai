@@ -27,3 +27,4 @@
 #### As coursera suggest to not to share solution online. So, request you not to share solution for this notebook.
 
 ### Thank You
+#### Add sequence model week1
