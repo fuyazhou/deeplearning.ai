@@ -27,4 +27,7 @@
 #### As coursera suggest to not to share solution online. So, request you not to share solution for this notebook.
 
 ### Thank You
+
 #### Add sequence model week1
+#### Add sequence model week2
+upload `glove.6B.50d.txt` to baiduyun,link is https://pan.baidu.com/s/15DiUKzN8U5KQC2hb49jROQ
